@@ -1,5 +1,5 @@
 
- <img align="center" src="https://i.im.ge/2022/06/29/u2luN1.png"/>
+ <h1>Olá, sou o Polaka</h1>
 
 <div align="center">
   <a href="https://github.com/PolakaOficial">
